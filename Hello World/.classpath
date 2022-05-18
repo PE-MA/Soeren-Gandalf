@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Schweiz/Autozulassung/Camper/Raspberri/pi4j-1.4/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="Libraries/pi4j-core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
